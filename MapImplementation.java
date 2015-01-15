@@ -1,5 +1,3 @@
-package org.adc.phase1;
-
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
